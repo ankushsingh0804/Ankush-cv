@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color:#28df99;
+  font-size: 5.625rem;
+  margin-top:50;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  color:#28df99;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  margin: 20px auto;
+  border-width: 5px;
+  border-color: #a8dda8;
+}
+
+.top-container {
+  background-color: #a8dda8;
+  padding-top: 50px;
+  position: relative;
+}
+.middle-container {
+  background-color:white;
+}
+
+.profile-img {
+  width: 15%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.education-img {
+  width: 25%;
+  float: right;
+}
+.bottom {
+  background-color: #28abb9;
+  padding: 10px;
+}
