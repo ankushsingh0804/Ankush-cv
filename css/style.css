@@ -34,7 +34,7 @@ hr {
 }
 
 .profile-img {
-  width: 15%;
+  width: 15%; 
 }
 
 .pro {
@@ -72,4 +72,19 @@ hr {
 .bottom {
   background-color: #28abb9;
   padding: 10px;
+}
+
+.footer-link {
+  color: #e6ffff;
+    margin: 10px 40px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.btn{
+  font-size: 1.2rem;
+    font-family: 'Oswald', sans-serif;
+    color: #008060;
+    font-weight: bold;
+    text-decoration: underline;
 }
